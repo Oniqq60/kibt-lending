@@ -16,6 +16,7 @@ npm install
 # Backend API URL
 NEXT_PUBLIC_BACKEND_URL=http://localhost:8080
 ```
+Или перименовать .env.example и .env
 
 ### 3. Запуск dev сервера
 
