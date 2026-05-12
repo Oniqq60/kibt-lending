@@ -10,12 +10,7 @@ npm install
 ```
 
 ### 2. Настройка окружения
-Создайте файл .env.local:
-
-```bash
-cp .env.example .env
-```
-Отредактируйте .env.local:
+Создайте файл и отредактируйте .env:
 
 ```env
 # Backend API URL
